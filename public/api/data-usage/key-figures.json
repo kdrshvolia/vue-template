@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Devices With Domestic Usage",
+        "value": "150"
+    },
+    {
+        "description": "Devices With Roaming Usage",
+        "value": "30"
+    },
+    {
+        "description": "Domestic Data Usage",
+        "value": "120 GB"
+    },
+    {
+        "description": "Roaming Data Usage",
+        "value": "20 GB"
+    },
+    {
+        "description": "Domestic Data Charges",
+        "value": "$200"
+    },
+    {
+        "description": "Roaming Data Charges",
+        "value": "$50"
+    }
+]

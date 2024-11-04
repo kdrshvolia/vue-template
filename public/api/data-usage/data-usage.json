@@ -1,0 +1,122 @@
+[
+    {
+        "name": "John Doe",
+        "number": "EMP001",
+        "status": "Active",
+        "costCenter": "Finance"
+    },
+    {
+        "name": "Jane Smith",
+        "number": "EMP002",
+        "status": "Inactive",
+        "costCenter": "Marketing"
+    },
+    {
+        "name": "Bob Johnson",
+        "number": "EMP003",
+        "status": "Active",
+        "costCenter": "IT"
+    },
+    {
+        "name": "Alice Williams",
+        "number": "EMP004",
+        "status": "Active",
+        "costCenter": "Operations"
+    },
+    {
+        "name": "Charlie Brown",
+        "number": "EMP005",
+        "status": "On Leave",
+        "costCenter": "Human Resources"
+    },
+    {
+        "name": "Diana Prince",
+        "number": "EMP006",
+        "status": "Active",
+        "costCenter": "Finance"
+    },
+    {
+        "name": "Evan Lee",
+        "number": "EMP007",
+        "status": "Inactive",
+        "costCenter": "Sales"
+    },
+    {
+        "name": "Fiona Zhang",
+        "number": "EMP008",
+        "status": "Active",
+        "costCenter": "IT"
+    },
+    {
+        "name": "George Taylor",
+        "number": "EMP009",
+        "status": "On Leave",
+        "costCenter": "Operations"
+    },
+    {
+        "name": "Hannah Davis",
+        "number": "EMP010",
+        "status": "Active",
+        "costCenter": "Marketing"
+    },
+    {
+        "name": "Ian Martinez",
+        "number": "EMP011",
+        "status": "Inactive",
+        "costCenter": "Finance"
+    },
+    {
+        "name": "Julia Kim",
+        "number": "EMP012",
+        "status": "Active",
+        "costCenter": "Research"
+    },
+    {
+        "name": "Kyle Rogers",
+        "number": "EMP013",
+        "status": "Active",
+        "costCenter": "Human Resources"
+    },
+    {
+        "name": "Lily Chen",
+        "number": "EMP014",
+        "status": "On Leave",
+        "costCenter": "Sales"
+    },
+    {
+        "name": "Mike Patel",
+        "number": "EMP015",
+        "status": "Active",
+        "costCenter": "Operations"
+    },
+    {
+        "name": "Nina Lopez",
+        "number": "EMP016",
+        "status": "Inactive",
+        "costCenter": "Marketing"
+    },
+    {
+        "name": "Oscar Evans",
+        "number": "EMP017",
+        "status": "Active",
+        "costCenter": "IT"
+    },
+    {
+        "name": "Paula Thomas",
+        "number": "EMP018",
+        "status": "On Leave",
+        "costCenter": "Research"
+    },
+    {
+        "name": "Quincy Baker",
+        "number": "EMP019",
+        "status": "Active",
+        "costCenter": "Finance"
+    },
+    {
+        "name": "Rachel Green",
+        "number": "EMP020",
+        "status": "Active",
+        "costCenter": "Sales"
+    }
+]

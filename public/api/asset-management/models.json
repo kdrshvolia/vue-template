@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Laptop",
+        "itemCategory": "Electronics"
+    },
+    {
+        "name": "Office Chair",
+        "itemCategory": "Furniture"
+    },
+    {
+        "name": "Notebook",
+        "itemCategory": "Stationery"
+    },
+    {
+        "name": "Printer",
+        "itemCategory": "Electronics"
+    },
+    {
+        "name": "Desk Lamp",
+        "itemCategory": "Lighting"
+    },
+    {
+        "name": "Whiteboard",
+        "itemCategory": "Office Supplies"
+    },
+    {
+        "name": "Coffee Maker",
+        "itemCategory": "Appliances"
+    },
+    {
+        "name": "Projector",
+        "itemCategory": "Electronics"
+    },
+    {
+        "name": "Filing Cabinet",
+        "itemCategory": "Furniture"
+    },
+    {
+        "name": "Pens",
+        "itemCategory": "Stationery"
+    }
+]
